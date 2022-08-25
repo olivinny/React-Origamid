@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Produto from "./Desafio1/Componentes/Produto";
+import Produto from "./Componentes/Produto";
 
 // Os links abaixo puxam dados de um produto em formato JSON
 // https://ranekapi.origamid.dev/json/api/produto/tablet
