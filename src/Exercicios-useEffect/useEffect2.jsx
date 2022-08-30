@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from "react";
-import Produto from "./Exercicios-useEffect/components/produto";
+import React, { useState } from "react";
+import Produto from "./components/produto";
 
 function App() {
   const [ativo, setAtivo] = useState(false);
