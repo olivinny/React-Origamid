@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Produto from "./Exercicios-useEffect/components/Produto.jsx";
+import Produto from "./components/Produto.jsx";
 
 // Quando o usuário clicar em um dos botões, faça um fetch do produto clicado utilizando a api abaixo
 // https://ranekapi.origamid.dev/json/api/produto/notebook
